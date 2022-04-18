@@ -1,1 +1,1 @@
-## Toast component made using HTML, CSS and JS
+## Toast made using HTML, CSS and JS
